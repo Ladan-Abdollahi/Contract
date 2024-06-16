@@ -1,0 +1,33 @@
+D:\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.deps.json
+D:\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.dll
+D:\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.pdb
+D:\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.AssemblyInfoInputs.cache
+D:\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.AssemblyInfo.cs
+D:\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.csproj.CoreCompileInputs.cache
+D:\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.dll
+D:\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\refint\Contract_Reporter.CommonLayer.dll
+D:\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.pdb
+D:\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\ref\Contract_Reporter.CommonLayer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.deps.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.pdb
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.AssemblyInfoInputs.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.AssemblyInfo.cs
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.csproj.CoreCompileInputs.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\refint\Contract_Reporter.CommonLayer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.pdb
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\ref\Contract_Reporter.CommonLayer.dll
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.deps.json
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.dll
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\bin\Debug\net8.0\Contract_Reporter.CommonLayer.pdb
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.AssemblyInfoInputs.cache
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.AssemblyInfo.cs
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.csproj.CoreCompileInputs.cache
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.dll
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\refint\Contract_Reporter.CommonLayer.dll
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\Contract_Reporter.CommonLayer.pdb
+D:\WebProjectWork\WebProjectWork\Contract_Reporter.CommonLayer\obj\Debug\net8.0\ref\Contract_Reporter.CommonLayer.dll

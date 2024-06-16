@@ -1,0 +1,292 @@
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\appsettings.Development.json
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\appsettings.json
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.staticwebassets.runtime.json
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.exe
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.deps.json
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.runtimeconfig.json
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.pdb
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Azure.Core.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Azure.Identity.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Humanizer.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.CodeDom.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Memory.Data.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.csproj.AssemblyReference.cache
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.AssemblyInfoInputs.cache
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.AssemblyInfo.cs
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.csproj.CoreCompileInputs.cache
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.MvcApplicationPartsAssemblyInfo.cs
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.MvcApplicationPartsAssemblyInfo.cache
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.RazorAssemblyInfo.cache
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.RazorAssemblyInfo.cs
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets.build.json
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets.development.json
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets\msbuild.Contract_Reporter.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets\msbuild.build.Contract_Reporter.props
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Contract_Reporter.props
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Contract_Reporter.props
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\scopedcss\bundle\Contract_Reporter.styles.css
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\scopedcss\projectbundle\Contract_Reporter.bundle.scp.css
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract.FB31028B.Up2Date
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.dll
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\refint\Contract_Reporter.dll
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.pdb
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.genruntimeconfig.cache
+D:\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\ref\Contract_Reporter.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\appsettings.Development.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\appsettings.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.staticwebassets.runtime.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.exe
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.deps.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.runtimeconfig.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Contract_Reporter.pdb
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Azure.Core.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Azure.Identity.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Humanizer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.CodeDom.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.csproj.AssemblyReference.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.AssemblyInfoInputs.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.AssemblyInfo.cs
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.csproj.CoreCompileInputs.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.MvcApplicationPartsAssemblyInfo.cs
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.MvcApplicationPartsAssemblyInfo.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.RazorAssemblyInfo.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.RazorAssemblyInfo.cs
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets.build.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets.development.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets\msbuild.Contract_Reporter.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets\msbuild.build.Contract_Reporter.props
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Contract_Reporter.props
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Contract_Reporter.props
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\scopedcss\bundle\Contract_Reporter.styles.css
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\scopedcss\projectbundle\Contract_Reporter.bundle.scp.css
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract.FB31028B.Up2Date
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\refint\Contract_Reporter.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.pdb
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\Contract_Reporter.genruntimeconfig.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter\obj\Debug\net8.0\ref\Contract_Reporter.dll

@@ -1,0 +1,28 @@
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\bin\Debug\net8.0\Contract_Reporter.DataModelLayer.deps.json
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\bin\Debug\net8.0\Contract_Reporter.DataModelLayer.runtimeconfig.json
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\bin\Debug\net8.0\Contract_Reporter.DataModelLayer.dll
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\bin\Debug\net8.0\Contract_Reporter.DataModelLayer.pdb
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.csproj.AssemblyReference.cache
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.AssemblyInfoInputs.cache
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.AssemblyInfo.cs
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.csproj.CoreCompileInputs.cache
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.dll
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\refint\Contract_Reporter.DataModelLayer.dll
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.pdb
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.genruntimeconfig.cache
+D:\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\ref\Contract_Reporter.DataModelLayer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.csproj.AssemblyReference.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.AssemblyInfoInputs.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.AssemblyInfo.cs
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.csproj.CoreCompileInputs.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\refint\Contract_Reporter.DataModelLayer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.pdb
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\bin\Debug\net8.0\Contract_Reporter.DataModelLayer.deps.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\bin\Debug\net8.0\Contract_Reporter.DataModelLayer.runtimeconfig.json
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\bin\Debug\net8.0\Contract_Reporter.DataModelLayer.dll
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\bin\Debug\net8.0\Contract_Reporter.DataModelLayer.pdb
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\Contract_Reporter.DataModelLayer.genruntimeconfig.cache
+D:\MySourceCodes\Projects-Web\ASP.NET MVC Core\WebProjectWork\Contract_Reporter.DataModelLayer\obj\Debug\net8.0\ref\Contract_Reporter.DataModelLayer.dll

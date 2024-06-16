@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Contract_Reporter.props" />
+</Project>
